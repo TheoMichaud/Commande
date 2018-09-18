@@ -1,0 +1,8 @@
+git status
+
+git add ....
+
+git commit -a -m "fist commit"
+
+git push -u origin master
+
